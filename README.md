@@ -1,5 +1,3 @@
-# Data Engineer Challenge: LOKA
-
 # Travel-Time---Uber-Movement
 
 ## Summary
